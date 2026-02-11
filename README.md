@@ -58,7 +58,7 @@ Follow these steps to set up and run the application locally.
    Open your browser and navigate to `http://localhost:5173` to interact with the DApp.
 
 ---
-*Powered by the Midnight Network*
+
 contract deployed at 
 ```bash
 503ad6c7f362d171e658a205a2c3ed1de56ad9b79624de190ce49887271f3bfe
@@ -66,6 +66,7 @@ contract deployed at
 
 
 Video ⬇️
+
 https://github.com/user-attachments/assets/1a80c0a5-09d9-459f-87b3-30493a1043a2
 https://github.com/user-attachments/assets/fe8d54d6-ad31-411a-8f6a-3cec5671d812
 
