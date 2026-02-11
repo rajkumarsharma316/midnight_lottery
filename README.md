@@ -59,3 +59,14 @@ Follow these steps to set up and run the application locally.
 
 ---
 *Powered by the Midnight Network*
+contract deployed at 
+```bash
+503ad6c7f362d171e658a205a2c3ed1de56ad9b79624de190ce49887271f3bfe
+```
+
+
+Video ⬇️
+https://github.com/user-attachments/assets/1a80c0a5-09d9-459f-87b3-30493a1043a2
+
+
+
